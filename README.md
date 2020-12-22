@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Soham-coder-img_seg_heroku_app)
 # Dominant-Color-for-Image-Segmentation
 This repository contains a web application on finding the dormant color for image segmentation. The python code uses kmeans clustering algorithm for finiding the dormant color in the image, and generate a new image with those dormant colours only. However, number of dormant colors is a user specified parameter.
 
